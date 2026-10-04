@@ -3,5 +3,6 @@ name = "app_mobile"
 version = "1.0.0"
 
 [tool.flet]
+product_name = "信息转换"
 org_name = "com.example.app"
-product_name = "信息报送转换"
+
