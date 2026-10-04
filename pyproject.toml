@@ -1,0 +1,7 @@
+[project]
+name = "app_mobile"
+version = "1.0.0"
+
+[tool.flet]
+org_name = "com.example.app"
+product_name = "信息报送转换"
