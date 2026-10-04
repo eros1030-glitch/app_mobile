@@ -132,6 +132,3 @@ def main(page: ft.Page):
             padding=10,
         )
     )
-
-if __name__ == "__main__":
-    ft.app(target=main)
